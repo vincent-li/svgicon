@@ -1,0 +1,27 @@
+.smart-icon{
+	vertical-align: middle;
+	display: inline-block;
+	margin: 0;
+	height: auto;
+	line-height: inherit;
+}
+.iconlist{
+	display: inline-block;
+}
+.iconlist .icon{
+	float: left;
+	margin: 0 20px 20px 0;
+	padding: 12px 12px;
+	/*border: 1px solid #d4d4d4;*/
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	/*background: #feffff;
+	background: -moz-linear-gradient(top, #feffff 0%, #f2f2f2 36%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(36%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top, #feffff 0%,#f2f2f2 36%,#e8e8e8 100%);
+	background: -o-linear-gradient(top, #feffff 0%,#f2f2f2 36%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top, #feffff 0%,#f2f2f2 36%,#e8e8e8 100%);
+	background: linear-gradient(to bottom, #feffff 0%,#f2f2f2 36%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#e8e8e8',GradientType=0 );*/
+}
