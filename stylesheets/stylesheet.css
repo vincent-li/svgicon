@@ -38,7 +38,6 @@ blockquote, q {
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
 	content: none;
 }
 table {
@@ -232,7 +231,6 @@ form {
 } 
 
 #main-content h1:before {
-  content: "/";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -0.9em;
@@ -246,7 +244,6 @@ form {
   color: #474747;
 } 
 #main-content h2:before {
-  content: "//";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -1.5em;
@@ -262,7 +259,6 @@ form {
 } 
  
 #main-content h3:before {
-  content: "";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2em;
